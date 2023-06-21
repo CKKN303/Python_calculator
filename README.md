@@ -1,5 +1,3 @@
-# Python_calculator
-```markdown
 # Python Calculator
 
 ## Description
