@@ -37,7 +37,7 @@ Note: If you already have the repository cloned, make sure to fetch the latest c
 1. Run the program:
 
    ```shell
-   python calculator.py
+   python_calculator.py
    ```
 
 2. Choose option 1 for manual data entry.
@@ -50,7 +50,7 @@ Note: If you already have the repository cloned, make sure to fetch the latest c
 1. Run the program:
 
    ```shell
-   python calculator.py
+   python_calculator.py
    ```
 
 2. Choose option 2 for file import.
