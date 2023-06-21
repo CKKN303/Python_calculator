@@ -26,6 +26,9 @@ entering equations or importing equations from a text file.
    ```shell
    cd Python_calculator
    ```
+Remember to replace "CKKN303" with your own GitHub username if you want to clone the repository under your account.
+
+Note: If you already have the repository cloned, make sure to fetch the latest changes from the remote repository using git pull before navigating to the project directory.
 
 ## Usage
 
