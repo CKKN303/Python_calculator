@@ -1,7 +1,4 @@
 # Python_calculator
-
-Apologies for the oversight. Here's an updated version of the README file that covers all the requirements:
-
 ```markdown
 # Python Calculator
 
